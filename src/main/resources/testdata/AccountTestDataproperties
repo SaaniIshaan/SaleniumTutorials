@@ -1,0 +1,13 @@
+AccountName=PiyushA2
+Type=Technology Partner
+CustomerPriority=High
+ ViewName=Sample
+ViewUniquename=Sample2
+ViewName=Bharat1
+ViewUniquename=Bharat2
+FieldDropdown=Account name
+OperatordropDown=contains
+ValuedropDown=a
+AccountName=delta
+reportName=My First Report
+reportUniqueName=My_First_Report
